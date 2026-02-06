@@ -11,15 +11,15 @@
     2. Alice's Adventures in Wonderland by Lewis Carroll 
 
 ## Model / Training hyperparameters
-- batch_size:
-- block_size:
-- n_layer:
-- n_head:
-- n_embd:
-- max_iters:
-- learning_rate:
+- batch_size: 16
+- block_size: 32
+- n_layer: 4
+- n_head: 4
+- n_embd: 128
+- max_iters: 3000
+- learning_rate: 1e-3
 
 ## Results
-- Final train loss:
-- Final val loss:
+- Final train loss: 1.7751
+- Final val loss: 1.8564
 - Sample outputs saved in /samples
