@@ -1,8 +1,8 @@
 # Build Your Own GPT (Mini GPT)
 
 ## Compute
-- Training environment: Google Colab (CPU)
-- CUDA available: (fill after check)
+- Training environment: CPU only
+- CUDA available: False
 
 ## Dataset
 - Source: Project Gutenberg (public domain)
